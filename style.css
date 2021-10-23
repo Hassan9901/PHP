@@ -1,0 +1,13 @@
+body{
+	background-color: red;
+}
+
+form{
+	text-align: center;
+}
+
+button{
+	text-align: center;
+	align-items: center;
+	background-color: skyblue;
+}
